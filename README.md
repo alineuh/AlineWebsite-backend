@@ -1,6 +1,6 @@
 # AlineWebsite-backend
 
-Backend API REST réalisé dans le cadre d’un projet d’école.
+Backend API REST, for a school project.
 
 ## Stack
 - Node.js
@@ -15,3 +15,4 @@ npm install
 npm run dev
 # ou
 npm start
+
